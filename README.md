@@ -1,11 +1,11 @@
 # TV-Market-Analysis-using-Web-Scraping-Exploratory-Data-Analysis-EDA-
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves collecting real-world TV product data from Flipkart using web scraping techniques and performing Exploratory Data Analysis (EDA) to uncover insights about pricing, ratings, and product trends in the TV market.
 
 
-## 🎯 Objective
+## Objective
 
 * Collect TV product data from Flipkart
 * Clean and preprocess raw scraped data
